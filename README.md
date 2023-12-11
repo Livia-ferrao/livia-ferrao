@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
-- 📫 How to reach me: livia.ferrao@hotmail.com
+- 📫 How to reach me: livia.ferrao16@hotmail.com
 - 😄 Pronouns: She/Her
 -->
 
